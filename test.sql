@@ -1,0 +1,2 @@
+SELECT something
+FROM something;
